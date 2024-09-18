@@ -1,0 +1,76 @@
+<!-- templates/index.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Đề xuất sản phẩm</title>
+    <link rel="stylesheet" href="../static/style.css">
+    <link rel="icon" type="image/x-icon" href="../static/icon.ico">
+
+</head>
+<body>
+<h1 class="tittle"> Công cụ hỗ trợ bán chéo sản phẩm </h1>
+<div class="feature">
+    <form action="{{ url_for('index') }}" method="get">
+        <button type="submit">FlagShip</button>
+    </form>
+    <form action="{{ url_for('classifi_product') }}" method="post">
+        <input type="hidden" name="product_type" value="A">
+        <button type="submit">Phân loại</button>
+    </form>
+    <form action="{{ url_for('open_process_index') }}" method="get">
+        <button type="submit">Cài đặt</button>
+    </form>
+</div>
+<div style="box-sizing: border-box; margin-top: 50px">
+    <div id="reliability-weight-input" style="float: left; width: fit-content; margin-left: 3%;">
+        <h2>Thay đổi trọng số tin cậy</h2>
+        <form method="POST" action="{{ url_for('process_data') }}">
+            <label for="long-term-weight">Trọng số tin cậy cho dữ liệu quá khứ:</label>
+            <input type="number" id="long-term-weight" name="long-term-weight" min="0" max="100" value="50">%
+            <br><br>
+            <button type="submit">Xác nhận</button>
+        </form>
+    </div>
+    <div style="float: right; width:50%">
+        <h2>Thêm dữ liệu mới</h2>
+        <form action="{{ url_for('active_process_auto') }}" method="POST">
+            <button class="btsave" type="submit">Lưu</button>
+        </form>
+
+        <form action="{{ url_for('upload_file') }}" method="post" enctype="multipart/form-data">
+            <label for="file">File:</label>
+            <input type="file" name="file" id="file" accept=".csv" required>
+            <button class="btclose" type="submit">Tải lên</button>
+        </form>
+
+        <h3>Tệp tải lên cần có các cột: </h3>
+        <table class="fl-table">
+            <thead>
+            <tr>
+                <th>store_delivery_code</th>
+                <th>product_code</th>
+                <th>amount</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>FDEL_201123_0103_NORM</td>
+                <td>WT001S-6HBPXTM-1</td>
+                <td>40</td>
+            </tr>
+            <tr>
+                <td>FDEL_291223_0176_NORM</td>
+                <td>WT0063-8MOLVTR-6</td>
+                <td>20</td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
+</body>
+</html>

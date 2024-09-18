@@ -1,0 +1,590 @@
+[
+    {
+        "product_id": "WT011Q-6HBVXTR-1",
+        "support": 0.1995,
+        "revenue": 65671.0,
+        "type": "A"
+    },
+    {
+        "product_id": "WT0018-6QUVCTR-6",
+        "support": 0.18,
+        "revenue": 74857.0,
+        "type": "A"
+    },
+    {
+        "product_id": "WT011W-6HSVSTR-1",
+        "support": 0.093,
+        "revenue": 9334.0,
+        "type": "C"
+    },
+    {
+        "product_id": "WT001S-6HBPXTM-1",
+        "support": 0.158,
+        "revenue": 123667.0,
+        "type": "A"
+    },
+    {
+        "product_id": "WT011Z-6HSPDTR-1",
+        "support": 0.0815,
+        "revenue": 12684.0,
+        "type": "C"
+    },
+    {
+        "product_id": "WT0003-6QUVLTR-6",
+        "support": 0.149,
+        "revenue": 53624.0,
+        "type": "C"
+    },
+    {
+        "product_id": "WT00HA-7L0VHTR-6",
+        "support": 0.1145,
+        "revenue": 295020.0,
+        "type": "A"
+    },
+    {
+        "product_id": "WT011R-6HBVXTM-1",
+        "support": 0.07550000000000001,
+        "revenue": 10512.0,
+        "type": "C"
+    },
+    {
+        "product_id": "WT001M-6VIVHTR-6",
+        "support": 0.1095,
+        "revenue": 24478.5,
+        "type": "C"
+    },
+    {
+        "product_id": "WT0063-8MOLVTR-6",
+        "support": 0.073,
+        "revenue": 9706.5,
+        "type": "C"
+    },
+    {
+        "product_id": "WT002K-6MOV3TR-6",
+        "support": 0.099,
+        "revenue": 45474.0,
+        "type": "C"
+    },
+    {
+        "product_id": "WT011Q-6HBVXTR-1, WT0018-6QUVCTR-6",
+        "support": 0.055,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT001I-6L0VHTR-1",
+        "support": 0.087,
+        "revenue": 797569.5,
+        "type": "A"
+    },
+    {
+        "product_id": "WT001K-6L2VHTR-6",
+        "support": 0.075,
+        "revenue": 18511.0,
+        "type": "C"
+    },
+    {
+        "product_id": "WT0017-6MOVCTR-6",
+        "support": 0.0795,
+        "revenue": 23501.0,
+        "type": "C"
+    },
+    {
+        "product_id": "WT001N-6MOVHTR-6",
+        "support": 0.065,
+        "revenue": 10558.5,
+        "type": "D"
+    },
+    {
+        "product_id": "WT0018-6QUVCTR-6, WT0003-6QUVLTR-6",
+        "support": 0.069,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT001H-6P2V3TR-3",
+        "support": 0.053000000000000005,
+        "revenue": 14720.0,
+        "type": "D"
+    },
+    {
+        "product_id": "WT005Y-8PKDT-1",
+        "support": 0.05,
+        "revenue": 7289.0,
+        "type": "D"
+    },
+    {
+        "product_id": "WT000G-6L0VHTR-1",
+        "support": 0.066,
+        "revenue": 268489.5,
+        "type": "B"
+    },
+    {
+        "product_id": "WT0075-8KAVLTM-6",
+        "support": 0.037000000000000005,
+        "revenue": 1168.0,
+        "type": "D"
+    },
+    {
+        "product_id": "WT0018-6QUVCTR-6, WT001S-6HBPXTM-1",
+        "support": 0.0485,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT0009-6QUVHTR-6",
+        "support": 0.048,
+        "revenue": 12787.0,
+        "type": "D"
+    },
+    {
+        "product_id": "WT0018-6QUVCTR-6, WT00HA-7L0VHTR-6",
+        "support": 0.034,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT007N-20RVCTR-6",
+        "support": 0.033,
+        "revenue": 1349.5,
+        "type": "D"
+    },
+    {
+        "product_id": "WT0003-6QUVLTR-6, WT001S-6HBPXTM-1",
+        "support": 0.040499999999999994,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT002K-6MOV3TR-6, WT001S-6HBPXTM-1",
+        "support": 0.035,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT00HA-7L0VHTR-6, WT001S-6HBPXTM-1",
+        "support": 0.028999999999999998,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT0018-6QUVCTR-6, WT0017-6MOVCTR-6",
+        "support": 0.037000000000000005,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT001G-6P0V2TR-3",
+        "support": 0.033,
+        "revenue": 8452.5,
+        "type": "D"
+    },
+    {
+        "product_id": "WT001O-6HBVXTM-1",
+        "support": 0.0455,
+        "revenue": 8462.0,
+        "type": "D"
+    },
+    {
+        "product_id": "WT0018-6QUVCTR-6, WT0063-8MOLVTR-6",
+        "support": 0.024,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT002N-6QUVCTR-6",
+        "support": 0.035,
+        "revenue": 22649.5,
+        "type": "D"
+    },
+    {
+        "product_id": "WT0063-8MOLVTR-6, WT0017-6MOVCTR-6",
+        "support": 0.022000000000000002,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT001M-6VIVHTR-6, WT0003-6QUVLTR-6",
+        "support": 0.0325,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT002K-6MOV3TR-6, WT00HA-7L0VHTR-6",
+        "support": 0.023,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT0003-6QUVLTR-6, WT00HA-7L0VHTR-6",
+        "support": 0.025500000000000002,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT0018-6QUVCTR-6, WT001N-6MOVHTR-6",
+        "support": 0.022,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT002K-6MOV3TR-6, WT0018-6QUVCTR-6",
+        "support": 0.027,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT0004-6VIVLTR-6",
+        "support": 0.0235,
+        "revenue": 2636.5,
+        "type": "D"
+    },
+    {
+        "product_id": "WT0063-8MOLVTR-6, WT001S-6HBPXTM-1",
+        "support": 0.0195,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT0018-6QUVCTR-6, WT0003-6QUVLTR-6, WT001S-6HBPXTM-1",
+        "support": 0.025500000000000002,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT001M-6VIVHTR-6, WT00HA-7L0VHTR-6",
+        "support": 0.021,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT0018-6QUVCTR-6, WT001I-6L0VHTR-1",
+        "support": 0.025,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT0063-8MOLVTR-6, WT0003-6QUVLTR-6",
+        "support": 0.019,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT007J-20RVLTR-6",
+        "support": 0.021,
+        "revenue": 1107.0,
+        "type": "D"
+    },
+    {
+        "product_id": "WT0017-6MOVCTR-6, WT0003-6QUVLTR-6",
+        "support": 0.024,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT0018-6QUVCTR-6, WT001K-6L2VHTR-6",
+        "support": 0.025,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT001K-6L2VHTR-6, WT001S-6HBPXTM-1",
+        "support": 0.0225,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT001M-6VIVHTR-6, WT001N-6MOVHTR-6",
+        "support": 0.018000000000000002,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT001K-6L2VHTR-6, WT00HA-7L0VHTR-6",
+        "support": 0.018000000000000002,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT001M-6VIVHTR-6, WT001S-6HBPXTM-1",
+        "support": 0.0225,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT0005-6CAVHTR-6",
+        "support": 0.025500000000000002,
+        "revenue": 6387.0,
+        "type": "D"
+    },
+    {
+        "product_id": "WT000G-6L0VHTR-1, WT001I-6L0VHTR-1",
+        "support": 0.027,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT001M-6VIVHTR-6, WT0017-6MOVCTR-6",
+        "support": 0.0185,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT000G-6L0VHTR-1, WT00HA-7L0VHTR-6",
+        "support": 0.019,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT0017-6MOVCTR-6, WT001S-6HBPXTM-1",
+        "support": 0.019999999999999997,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT001K-6L2VHTR-6, WT0003-6QUVLTR-6",
+        "support": 0.0225,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT0009-6QUVHTR-6, WT0003-6QUVLTR-6",
+        "support": 0.02,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT002K-6MOV3TR-6, WT0003-6QUVLTR-6",
+        "support": 0.022,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT0017-6MOVCTR-6, WT00HA-7L0VHTR-6",
+        "support": 0.0155,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT0003-6QUVLTR-6, WT001N-6MOVHTR-6",
+        "support": 0.0175,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT0002-6MOVLTR-6",
+        "support": 0.03,
+        "revenue": 13886.5,
+        "type": "D"
+    },
+    {
+        "product_id": "WT0018-6QUVCTR-6, WT0009-6QUVHTR-6",
+        "support": 0.018000000000000002,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT002K-6MOV3TR-6, WT0018-6QUVCTR-6, WT001S-6HBPXTM-1",
+        "support": 0.0165,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT001M-6VIVHTR-6, WT001K-6L2VHTR-6",
+        "support": 0.017,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT0018-6QUVCTR-6, WT001H-6P2V3TR-3",
+        "support": 0.015,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT002K-6MOV3TR-6, WT001M-6VIVHTR-6",
+        "support": 0.0175,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT005Y-8PKDT-1, WT001S-6HBPXTM-1",
+        "support": 0.014499999999999999,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT0018-6QUVCTR-6, WT0003-6QUVLTR-6, WT00HA-7L0VHTR-6",
+        "support": 0.015,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT001H-6P2V3TR-3, WT0003-6QUVLTR-6",
+        "support": 0.013999999999999999,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT0009-6QUVHTR-6, WT001S-6HBPXTM-1",
+        "support": 0.016,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT0018-6QUVCTR-6, WT002N-6QUVCTR-6",
+        "support": 0.0185,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT001H-6P2V3TR-3, WT001G-6P0V2TR-3",
+        "support": 0.014499999999999999,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT007F-20KVCTM-1",
+        "support": 0.0155,
+        "revenue": 484.5,
+        "type": "D"
+    },
+    {
+        "product_id": "WT0017-6MOVCTR-6, WT0018-6QUVCTR-6, WT0003-6QUVLTR-6",
+        "support": 0.0165,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT001I-6L0VHTR-1, WT00HA-7L0VHTR-6",
+        "support": 0.016,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT002K-6MOV3TR-6, WT001K-6L2VHTR-6",
+        "support": 0.015,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT001E-6K2V3TR-6",
+        "support": 0.018500000000000003,
+        "revenue": 5990.5,
+        "type": "D"
+    },
+    {
+        "product_id": "WT002K-6MOV3TR-6, WT0017-6MOVCTR-6",
+        "support": 0.0135,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT0018-6QUVCTR-6, WT0017-6MOVCTR-6, WT001S-6HBPXTM-1",
+        "support": 0.0135,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT001I-6L0VHTR-1, WT001S-6HBPXTM-1",
+        "support": 0.013999999999999999,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT0018-6QUVCTR-6, WT001K-6L2VHTR-6, WT0003-6QUVLTR-6",
+        "support": 0.014499999999999999,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT002K-6MOV3TR-6, WT0018-6QUVCTR-6, WT0003-6QUVLTR-6",
+        "support": 0.013999999999999999,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT0018-6QUVCTR-6, WT000G-6L0VHTR-1",
+        "support": 0.014499999999999999,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT001M-6VIVHTR-6, WT0009-6QUVHTR-6",
+        "support": 0.0135,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT0018-6QUVCTR-6, WT001K-6L2VHTR-6, WT001S-6HBPXTM-1",
+        "support": 0.0125,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT0018-6QUVCTR-6, WT0003-6QUVLTR-6, WT0009-6QUVHTR-6",
+        "support": 0.0115,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT000G-6L0VHTR-1, WT0003-6QUVLTR-6",
+        "support": 0.013,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT0018-6QUVCTR-6, WT0003-6QUVLTR-6, WT001I-6L0VHTR-1",
+        "support": 0.012,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT0018-6QUVCTR-6, WT001O-6HBVXTM-1",
+        "support": 0.013,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT000B-6T0VHTR-1",
+        "support": 0.018,
+        "revenue": 42517.5,
+        "type": "D"
+    },
+    {
+        "product_id": "WT002K-6MOV3TR-6, WT0003-6QUVLTR-6, WT001S-6HBPXTM-1",
+        "support": 0.012,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT001M-6VIVHTR-6, WT0003-6QUVLTR-6, WT001S-6HBPXTM-1",
+        "support": 0.0115,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT001K-6L2VHTR-6, WT0003-6QUVLTR-6, WT001S-6HBPXTM-1",
+        "support": 0.011,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT0009-6QUVHTR-6, WT0005-6CAVHTR-6",
+        "support": 0.010499999999999999,
+        "revenue": 0.0,
+        "type": "Unknown"
+    },
+    {
+        "product_id": "WT0033-7L0VHTR-6",
+        "support": 0.011,
+        "revenue": 1077.5,
+        "type": "D"
+    },
+    {
+        "product_id": "WT001O-6HBVXTM-1, WT0003-6QUVLTR-6",
+        "support": 0.012,
+        "revenue": 0.0,
+        "type": "Unknown"
+    }
+]

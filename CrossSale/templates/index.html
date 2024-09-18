@@ -1,0 +1,69 @@
+<!-- templates/index.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Đề xuất sản phẩm</title>
+    <link rel="stylesheet" href="../static/style.css">
+    <link rel="icon" type="image/x-icon" href="../static/icon.ico">
+
+</head>
+<body>
+<h1 class="tittle"> Công cụ hỗ trợ bán chéo sản phẩm  </h1>
+<div class="feature">
+    <form action="{{ url_for('index') }}" method="get">
+        <button type="submit">FlagShip</button>
+    </form>
+    <form action="{{ url_for('classifi_product') }}" method="post">
+        <input type="hidden" name="product_type" value="A">
+        <button type="submit">Phân loại</button>
+    </form>
+    <form action="{{ url_for('open_process_index') }}" method="get">
+        <button type="submit">Cài đặt</button>
+    </form>
+</div>
+
+
+{% if frequent_list %}
+<h2>Sản phẩm đặt mua nhiều</h2>
+<div class="table-wrapper">
+    <table class="fl-table">
+        <thead>
+        <tr>
+            <th>Sản phẩm</th>
+            <th>Tần suất mua</th>
+            <th>Doanh số</th>
+            <th>Cross sale</th>
+        </tr>
+        </thead>
+        <tbody>
+        {% for itemset in frequent_list %}
+        {% if itemset['revenue'] != 0 %}
+        <tr>
+            <td>{{ itemset['product_id']}}</td>
+            <td class="it_sp">
+                <div class="progress-container">
+                    <div class="progress-bar" style="width: {{ itemset['support'] * 100 }}%;">
+                        {{ "{:.1f}".format(itemset['support'] * 100)}}%
+                    </div>
+                </div>
+            </td>
+            <td>{{ "{:.1f}".format(itemset['revenue'])}} sản phẩm</td>
+            <td>
+                <form method="POST" action="{{ url_for('cross_sale') }}">
+                        <input type="hidden" name="product_id" value="{{ itemset['product_id'] }}">
+                        <button type="submit">Cross sale</button>
+                </form>
+            </td>
+        </tr>
+        {%endif%}
+        {% endfor %}
+        </tbody>
+    </table>
+</div>
+{%endif%}
+
+</body>
+</html>
